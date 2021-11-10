@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap");
 
 html {
-  font-size: 62.5%;
+  font-size: 70%;
   -webkit-font-smoothing: antialiased;
   margin: 0;
   padding: 0;
@@ -195,6 +195,9 @@ header h1 {
 #resume {
   background: #2c6a91;
 }
+
+
+
 .experience-icon {
   font-size: 300%;
   margin-top: 25%;

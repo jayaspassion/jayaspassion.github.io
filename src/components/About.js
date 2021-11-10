@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Button } from "react-bootstrap";
 
 
 class About extends Component {
@@ -44,7 +45,7 @@ class About extends Component {
                   /> */}
                   <br/>
                   <br/>
-                  <a href="https://drive.google.com/uc?export=download&id=14IditQRDLICAzEMlKu7xtnMrXaQkVh-G">Download Resume</a>
+                  {/* <a href="https://drive.google.com/uc?export=download&id=14IditQRDLICAzEMlKu7xtnMrXaQkVh-G">Download Resume</a> */}
                   </span>
               </div>
             </div>
@@ -72,6 +73,9 @@ class About extends Component {
                     <br />
                     <br />
                     {about3}
+                    <br />
+                    <br />
+                    <Button className="resume" variant="dark" size="lg" href="https://drive.google.com/uc?export=download&id=14IditQRDLICAzEMlKu7xtnMrXaQkVh-G">Resume</Button>
                   </div>
                 </div>
               </div>
