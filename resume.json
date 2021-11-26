@@ -92,40 +92,36 @@
   },
   "projects": [
     {
-      "title": "OracyBox",
-      "startDate": "2019",
-      "description": "A blended e-learning solution that attempts to solve the difficulties in current oracy (speaking and listening skills) strategies in primary schools across Wales. The project was developed in conjunction with a member of the education industry. What is delivered is a Laravel/Symfony full-stack application to provide the tools necessary for teachers to record and provide feedback on a range of activities. Activities are then carried out by pupils in the classroom with an iOS application for the iPad.",
+      "title": "MotoAssist",
+      "startDate": "2021",
+      "description": "React based dashboard and axios services where users can create new bookings for bike services and repair and manage them",
       "images": [
-        "images/portfolio/oracybox/p1.jpg",
-        "images/portfolio/oracybox/p2.png",
-        "images/portfolio/oracybox/p3.jpeg",
-        "images/portfolio/oracybox/p4.jpg"
+        "images/portfolio/motoassist/p1.jpg"
       ],
-      "url": "https://adamisafk.github.io/OracyBox/",
+      "url": "https://motoassist.herokuapp.com/",
       "technologies": [
         {
-          "class": "devicon-swift-plain",
-          "name": "Swift"
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
         },
         {
-          "class": "devicon-laravel-plain",
-          "name": "Laravel"
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
         },
         {
-          "class": "devicon-mysql-plain",
-          "name": "MySQL"
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
         }
       ]
     },
     {
-      "title": "Fake News Quiz",
-      "startDate": "2020",
-      "description": "Using PolitiFact data, this a simple react application which aims to test your ability to identify which of two news articles is fake and real. Loading may take some time due to using a free-tier dyno in Heroku.",
+      "title": "Pricing Table",
+      "startDate": "2021",
+      "description": "UI to built using react, to display all plans and features given as data.",
       "images": [
-        "images/portfolio/fakenews-quiz/p1.png",
-        "images/portfolio/fakenews-quiz/p2.jpg"
+        "images/portfolio/pricingtable/p1.png"
       ],
-      "url": "https://fakenews-quiz.adamhowells.co.uk/",
+      "url": "https://pricing-table-jayasoorya.netlify.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -134,26 +130,17 @@
       ]
     },
     {
-      "title": "Tetris JS",
-      "startDate": "2020",
-      "description": "I wanted to see if I could develop Tetris (using the official rule book) using only HTML, CSS, and JavaScript. Loading may take some time due to using a free-tier dyno in Heroku.",
+      "title": "Giffy UI",
+      "startDate": "2021",
+      "description": "A component of any kind of social media where text and gifs can be posted",
       "images": [
-        "images/portfolio/tetris-js/p1.jpg",
-        "images/portfolio/tetris-js/p2.jpg"
+        "images/portfolio/giffy/p1.png"
       ],
-      "url": "https://tetris.adamhowells.co.uk/",
+      "url": "https://youthful-ritchie-2696eb.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-html5-plain",
-          "name": "HTML5"
-        },
-        {
-          "class": "devicon-css3-plain",
-          "name": "CSS3"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
+          "class": "devicon-react-original",
+          "name": "ReactJS"
         }
       ]
     }
