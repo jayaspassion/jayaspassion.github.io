@@ -10,6 +10,7 @@ import Skills from "./components/Skills";
 import Education from "./components/Education";
 import Expertise from "./components/Expertise";
 
+
 class App extends Component {
 
   constructor(props) {
@@ -73,6 +74,7 @@ class App extends Component {
   render() {
     return (
       <div>
+       
         <Header resumeData={this.state.resumeData.basic_info} />
         <div className="col-md-12 mx-auto text-center language">
           
@@ -80,14 +82,15 @@ class App extends Component {
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
-        <Projects
-          resumeProjects={this.state.resumeData.projects}
-          resumeBasicInfo={this.state.resumeData.basic_info}
-        />
         <Skills
           resumeSkills={this.state.resumeData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
+        <Projects
+          resumeProjects={this.state.resumeData.projects}
+          resumeBasicInfo={this.state.resumeData.basic_info}
+        />
+        
         <Experience
           resumeExperience={this.state.resumeData.experience}
           resumeBasicInfo={this.state.resumeData.basic_info}
