@@ -115,21 +115,6 @@
       ]
     },
     {
-      "title": "Pricing Table",
-      "startDate": "2021",
-      "description": "UI to built using react, to display all plans and features given as data.",
-      "images": [
-        "images/portfolio/pricingtable/p1.png"
-      ],
-      "url": "https://pricing-table-jayasoorya.netlify.app/",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
-        }
-      ]
-    },
-    {
       "title": "Giffy UI",
       "startDate": "2021",
       "description": "A component of any kind of social media where text and gifs can be posted",
