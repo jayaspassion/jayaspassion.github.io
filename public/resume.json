@@ -159,21 +159,6 @@
           "name": "MongoDB"
         }
       ]
-    },
-    {
-      "title": "Giffy UI",
-      "startDate": "2021",
-      "description": "A component of any kind of social media where text and gifs can be posted",
-      "images": [
-        "images/portfolio/giffy/p1.png"
-      ],
-      "url": "https://youthful-ritchie-2696eb.netlify.app/",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "ReactJS"
-        }
-      ]
     }
   ],
   "education": [
