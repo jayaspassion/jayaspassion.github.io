@@ -115,17 +115,48 @@
       ]
     },
     {
-      "title": "Giffy UI",
+      "title": "Social Media App",
       "startDate": "2021",
-      "description": "A component of any kind of social media where text and gifs can be posted",
+      "description": "A social media application built on React and NodeJs where users can create posts with pcitures, add tags, like posts etc.",
       "images": [
-        "images/portfolio/giffy/p1.png"
+        "images/portfolio/socialmedia/socialmediaapp.png"
       ],
-      "url": "https://youthful-ritchie-2696eb.netlify.app/",
+      "url": "https://memories-mern-demo-app.netlify.app/",
       "technologies": [
         {
-          "class": "devicon-react-original",
+          "class": "devicon-react-plain",
           "name": "ReactJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Sticky Notes",
+      "startDate": "2021",
+      "description": "A sticky note application built on React and NodeJs where users can create, edit and maintain their notes",
+      "images": [
+        "images/portfolio/stickynotes/p2.png"
+      ],
+      "url": "https://notes-demo-app-mernstack.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
         }
       ]
     }
