@@ -115,6 +115,29 @@
       ]
     },
     {
+      "title": "Social Media App",
+      "startDate": "2021",
+      "description": "A social media application built on React and NodeJs where users can create posts with pcitures, add tags, like posts etc.",
+      "images": [
+        "images/portfolio/socialmedia/socialmediaapp.png"
+      ],
+      "url": "https://memories-mern-demo-app.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "NodeJS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
       "title": "Giffy UI",
       "startDate": "2021",
       "description": "A component of any kind of social media where text and gifs can be posted",
