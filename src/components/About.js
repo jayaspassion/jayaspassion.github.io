@@ -75,7 +75,7 @@ class About extends Component {
                     {about3}
                     <br />
                     <br />
-                    <Button className="resume" variant="dark" size="lg" href="https://drive.google.com/uc?&id=14IditQRDLICAzEMlKu7xtnMrXaQkVh-G">Resume</Button>
+                    <Button className="resume" variant="dark" size="lg" target="_blank" href="https://drive.google.com/uc?&id=14IditQRDLICAzEMlKu7xtnMrXaQkVh-G">Resume</Button>
                   </div>
                 </div>
               </div>
