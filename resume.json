@@ -1,7 +1,12 @@
 {
   "basic_info": {
     "name": "Jayasoorya Jithendra",
-    "titles": ["Full-stack Developer", "Web Developer", "Graphic Designer"],
+    "titles": [
+      "Software Engineer",
+      "Frontend Developer",
+      "Machine Learning Engineer",
+      "Data Scientist"
+    ],
     "social": [
       {
         "name": "github",
@@ -15,14 +20,14 @@
       },
       {
         "name": "email",
-        "url": "mailto:jayaspassion@gmail.com",
+        "url": "mailto:jayasooryajj@gmail.com",
         "class": "fa fa-envelope"
       }
     ],
     "description_header": "Hi!",
-    "description": "👋 I'm Jayasoorya Jithendra. I’m a Full Stack Developer, primarily focusing on front-end technologies. I currently work as a freelance developer, but I also have experience working in MNCs as part of some great teams and an agile environment. The technologies I primarily work with at the moment are JavaScript, ReactJs, MongoDB, Express and NodeJs.",
-    "philosophy": "I’m a young and motivated individual who is reliable and confident with proven skills and experience. I enjoy problem-solving and am quick to learn, have good communication skills as well as the ability to work efficiently both individually and as part of a team in a professional environment. I’m committed to working in the IT industry, skill and subject I am deeply passionate about.",
-    "preference": "I’m looking for a Full Stack Developer role, preferably remote work or any part of South India, although I am indeed open to working anywhere if it's the right opportunity for me.",
+    "description": "👋 I'm Jayasoorya Jithendra, a Software Engineer with over 3 years of experience, currently pursuing my Master's in Computer Science at SUNY Buffalo. I specialize in Frontend and Full Stack Development and also have solid academic and project experience in Data Science and Machine Learning. I've contributed to impactful products at Dassault Systèmes, Siemens, and Synoriq, and I build scalable, user-friendly applications using technologies like React.js, Vue.js, Node.js, and MongoDB. I'm actively seeking Software Development or Data Science Internship opportunities across the U.S. to apply and grow my skills in real-world, innovative projects.",
+    "philosophy": "I’m a passionate, fast-learning technologist with a strong foundation in both frontend engineering and data-driven development. I thrive in agile, collaborative environments and enjoy solving problems through clean, maintainable code. With a track record of technical leadership, mentoring, and impactful contributions across web development and ML projects, I bring a balanced mix of product thinking and engineering depth. I believe in continuous learning, thoughtful design, and delivering value through scalable solutions.",
+    "preference": "I'm currently looking for Software Development, Frontend, Full Stack, or Data Science / Machine Learning Internship roles in the U.S. I am not considering relocation back to India and am open to remote or in-person roles anywhere in the U.S. I’m especially excited about working with modern tech stacks involving React, Node.js, Python, TensorFlow, PyTorch, and cloud platforms like AWS or Azure, and contributing to data-driven products and scalable platforms.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -95,11 +100,9 @@
       "title": "MotoAssist",
       "startDate": "2021",
       "description": "React based dashboard and axios services where users can create new bookings for bike services and repair and manage them",
-      "images": [
-        "images/portfolio/motoassist/p1.jpg"
-      ],
+      "images": ["images/portfolio/motoassist/p1.jpg"],
       "url": "https://motoassist.herokuapp.com/",
-      "sourcecode":"https://github.com/jayaspassion/motoassist",
+      "sourcecode": "https://github.com/jayaspassion/motoassist",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -119,11 +122,9 @@
       "title": "Social Media App",
       "startDate": "2021",
       "description": "A social media application built on React and NodeJs where users can create posts with pcitures, add tags, like posts etc.",
-      "images": [
-        "images/portfolio/socialmedia/socialmediaapp.png"
-      ],
+      "images": ["images/portfolio/socialmedia/socialmediaapp.png"],
       "url": "https://memories-mern-demo-app.netlify.app/",
-      "sourcecode":"https://github.com/jayaspassion/social-media",
+      "sourcecode": "https://github.com/jayaspassion/social-media",
       "technologies": [
         {
           "class": "devicon-react-plain",
@@ -143,9 +144,7 @@
       "title": "Restaurant Booking App",
       "startDate": "2021",
       "description": "A hotel reservation application built on React and NodeJs where users can reserve tables and make bookings",
-      "images": [
-        "images/portfolio/restaurantbooking/restaurant-booking.png"
-      ],
+      "images": ["images/portfolio/restaurantbooking/restaurant-booking.png"],
       "url": "https://restaurantbookingmernapp.herokuapp.com/",
       "sourcecode": "https://github.com/jayaspassion/restaurant-booking",
       "technologies": [
@@ -167,11 +166,9 @@
       "title": "Sticky Notes",
       "startDate": "2021",
       "description": "A sticky note application built on React and NodeJs where users can create, edit and maintain their notes",
-      "images": [
-        "images/portfolio/stickynotes/p2.png"
-      ],
+      "images": ["images/portfolio/stickynotes/p2.png"],
       "url": "https://notes-demo-app-mernstack.herokuapp.com/",
-      "sourcecode":"https://github.com/jayaspassion/notes-app",
+      "sourcecode": "https://github.com/jayaspassion/notes-app",
       "technologies": [
         {
           "class": "devicon-react-plain",
