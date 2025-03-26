@@ -96,6 +96,18 @@ function Header(props) {
           </div>
         </div>
       </div>
+      <div className="scroll-down-arrow">
+    <span
+      className="iconify"
+      data-icon="bi:chevron-double-down"
+      data-inline="false"
+      style={{ fontSize: "4rem", color: "#ffffff" }}
+      // onClick={() => {
+      //   const section = document.getElementById("about");
+      //   section && section.scrollIntoView({ behavior: "smooth" });
+      // }}
+    ></span>
+  </div>
     </header>
   );
 }

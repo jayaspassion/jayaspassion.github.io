@@ -41,12 +41,27 @@
   "skills": {
     "icons": [
       {
-        "name": "HTML 5",
+        "name": "VueJS",
+        "class": "devicon-vuejs-plain",
+        "level": "75"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-plain",
+        "level": "80"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "80"
+      },
+      {
+        "name": "HTML",
         "class": "devicon-html5-plain",
         "level": "95"
       },
       {
-        "name": "CSS 3",
+        "name": "CSS",
         "class": "devicon-css3-plain",
         "level": "95"
       },
@@ -61,12 +76,6 @@
         "level": "85"
       },
       {
-        "name": "React",
-        "class": "devicon-react-plain",
-        "level": "80"
-      },
-
-      {
         "name": "AWS",
         "class": "devicon-amazonwebservices-original",
         "level": "75"
@@ -76,6 +85,11 @@
         "name": "MySql",
         "class": "devicon-mysql-plain",
         "level": "60"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "65"
       },
       {
         "name": "MongoDB",
@@ -91,6 +105,31 @@
       {
         "name": "Linux",
         "class": "devicon-linux-plain",
+        "level": "60"
+      },
+      {
+        "name": "Photoshop",
+        "class": "devicon-photoshop-plain",
+        "level": "50"
+      },
+      {
+        "name": "TensorFlow",
+        "class": "devicon-python-plain",
+        "level": "65"
+      },
+      {
+        "name": "Pandas",
+        "class": "devicon-python-plain",
+        "level": "70"
+      },
+      {
+        "name": "Scikit-Learn",
+        "class": "devicon-python-plain",
+        "level": "70"
+      },
+      {
+        "name": "PyTorch",
+        "class": "devicon-python-plain",
         "level": "60"
       }
     ]
@@ -187,6 +226,21 @@
   ],
   "education": [
     {
+      "company": "Univeristy at Buffalo",
+      "title": "MS in Computer Science",
+      "description": "CGPA : 3.92",
+      "years": "2024 - Present",
+      "mainTech": ["Computer Science and Engineering"],
+      "technologies": [
+        "Data Intensive Computing",
+        "Machine Learning",
+        "Deep Learning",
+        "Database Management and Query Languages",
+        "Algorithm Analysis and Design",
+        "Computer Security"
+      ]
+    },
+    {
       "company": "College Of Engineering Trivandrum",
       "title": "BTech",
       "description": "CGPA : 8",
@@ -229,35 +283,77 @@
   "expertise": {
     "icons": [
       {
-        "title": "Full-Stack Web Development",
-        "description": "I have skills and experience to develop full-stack web applications and services in a variety of technologies. My knowledge area for full-stack apps includes HTML/CSS/JS, MERN stack, AWS. I'm able to create and maintain APIs, web servers, and dockerized environments."
+        "title": "Frontend Development",
+        "description": "Skilled in building responsive and performant user interfaces using ReactJS, Vue.js, and modern JavaScript frameworks. Experienced in optimizing frontend components, enhancing user experience, and performing UI migrations from legacy stacks to modern architectures."
       },
       {
-        "title": "Database Systems",
-        "description": "I have a detailed level of understanding of relational database management systems. I have experience with normalization and a wide range of SQL languages, most notably MySQL/MariaDB, and NoSQL such as MongoDB and Redis. I also have the know-how to implement and use databases in software applications and RESTful APIs."
+        "title": "Data Science & Machine Learning",
+        "description": "Hands-on experience in building predictive models using Python, Scikit-learn, CatBoost, and TensorFlow. Skilled in data preprocessing, feature engineering, model evaluation, and deploying ML models using Streamlit for real-time inference."
       },
       {
-        "title": "E-Commerce",
-        "description": "I know the business and have experience with developing an e-commerce site. The Business and Web module I undertook involved responsive web design through CSS frameworks, and marketing includes social media, email, and blogging."
+        "title": "Database Management",
+        "description": "Experienced in designing and integrating relational databases such as MySQL and PostgreSQL, as well as NoSQL solutions like MongoDB. Proficient in writing optimized queries, performing schema design, and integrating databases into full-stack applications."
       },
-
       {
-        "title": "Project Management",
-        "description": "Through project management modules in education and working in an agile environment, I have experience with working with project planning. I'm able to work in Agile methodologies such as SCRUM with the inclusion of DevOps, Continuous Testing/Delivery, and Kanban Boards."
+        "title": "E-Commerce & UI Optimization",
+        "description": "Developed and maintained e-commerce features such as booking systems, user dashboards, and authentication modules. Integrated accessibility best practices and responsive design to ensure seamless experience across devices and platforms."
       }
     ]
   },
   "experience": [
     {
+      "company": "Dassault Systèmes",
+      "title": "Software Engineering Specialist",
+      "description": "Worked on UI modernization and performance optimization of enterprise dashboard components within the 3DEXPERIENCE platform. Responsibilities included:",
+      "responsibilities": [
+        "Enhanced and maintained UI widgets to improve usability and interface consistency",
+        "Led the migration of widgets from Vue 2 to Vue 3, improving maintainability and alignment with modern standards",
+        "Optimized dashboard components, achieving a 15% improvement in analytics speed for end-users",
+        "Collaborated with cross-functional teams to ensure seamless integration of frontend features"
+      ],
+      "years": "08.2023 - 06.2024",
+      "mainTech": [""],
+      "technologies": [
+        "Vue 3",
+        "JavaScript",
+        "UI Optimization",
+        "Frontend Performance",
+        "Git"
+      ]
+    },
+    {
+      "company": "Synoriq R&D Pvt Ltd",
+      "title": "Software Engineer 2",
+      "description": "Served as a Software Engineer 2 at Synoriq, contributing to the development and maintenance of enterprise e-learning and loan management platforms. Responsibilities included:",
+      "responsibilities": [
+        "Led and mentored a team of junior engineers through code reviews and technical guidance",
+        "Designed and implemented timezone management and user profile modules for the Launchpad e-learning platform using ReactJS",
+        "Applied accessibility best practices to enhance usability and inclusivity",
+        "Delivered new features and resolved high-priority bugs within the Loan Management System (LMS)",
+        "Ensured platform stability and performance through continuous integration and testing"
+      ],
+      "years": "05.2022 - 11.2022",
+      "mainTech": [""],
+      "technologies": [
+        "ReactJS",
+        "JavaScript",
+        "Git",
+        "Agile",
+        "Accessibility",
+        "Code Reviews",
+        "Frontend Development"
+      ]
+    },
+    {
       "company": "Siemens",
       "title": "Software Developer",
-      "description": "I worked at Siemens in Bangalore, as part of its MindSphere and WinCC Unified Edge technologies. My role there was of a Software Developer, where I was a part of a fast-paced and encouraging workforce. My responsibilities include:",
+      "description": "Worked as a Software Developer in Bangalore on MindSphere and WinCC Unified Edge technologies within a dynamic and agile team environment. Responsibilities included:",
       "responsibilities": [
-        "Providing system support for all environments including our production teams",
-        "Working on the technical implementation of apps and infrastructure",
-        "Supporting the creation of standardized documentation and code review",
-        "Developing, testing and supporting current systems",
-        "Using automated test tools"
+        "Provided system support across all environments including production",
+        "Contributed to the technical implementation of applications and infrastructure components",
+        "Supported the creation of standardized documentation and performed code reviews",
+        "Developed, tested, and maintained core system components",
+        "Utilized automated testing tools to ensure code reliability"
       ],
       "years": "07.2019 - 04.2020",
       "mainTech": [""],
@@ -265,9 +361,9 @@
         "Agile Development",
         "DevOps",
         "Unit Testing",
-        "HTML 5",
+        "HTML5",
         "CSS",
-        "Karma-jasmine",
+        "Karma-Jasmine",
         "Angular",
         "NodeJS"
       ]
@@ -275,7 +371,7 @@
     {
       "company": "FlyTxt",
       "title": "Intern",
-      "description": "I worked among a team of peers to use Machine Learning to build a recommendation engine that could suggest movies to users based on their viewing history. This was a full-time internship, during summer break.",
+      "description": "Contributed to the development of a machine learning-based movie recommendation engine as part of a full-time summer internship. The system leveraged user viewing history for intelligent suggestions.",
       "responsibilities": [],
       "years": "05.2018 - 07.2018",
       "mainTech": [""],
@@ -284,11 +380,11 @@
     {
       "company": "BuildNext",
       "title": "Intern",
-      "description": "Focussing on the e-commerce website, I worked on making the site compatible with more types of screens and cleared bugs that happen at different resolutions. This was mainly in the evenings, after my undergrad classes, and during holidays",
+      "description": "Worked on improving the responsiveness and cross-device compatibility of an e-commerce website during an evening and holiday internship alongside undergraduate coursework.",
       "responsibilities": [],
       "years": "01.2018 - 05.2018",
       "mainTech": [""],
-      "technologies": ["HTML 5", "CSS", "Bootstrap"]
+      "technologies": ["HTML5", "CSS", "Bootstrap"]
     }
   ]
 }
